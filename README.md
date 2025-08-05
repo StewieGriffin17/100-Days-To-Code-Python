@@ -1,4 +1,5 @@
 # 100 Days of Code: Python
+![Course on Udemy](100-days-of-code.png)
 
 This repository contains my progress and projects for the "100 Days of Code: Python" course on Udemy. The course is designed to help beginners learn Python programming through a unique 100-day coding challenge.
 
