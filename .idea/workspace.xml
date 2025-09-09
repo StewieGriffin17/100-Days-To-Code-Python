@@ -36,6 +36,7 @@
     "Python.api_basics.executor": "Run",
     "Python.automatic_birthday_wisher.executor": "Run",
     "Python.colors.executor": "Run",
+    "Python.data.executor": "Run",
     "Python.day14_project.executor": "Run",
     "Python.day26_project.executor": "Run",
     "Python.day28_project.executor": "Run",
@@ -49,16 +50,16 @@
     "Python.monday_motivation.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/MyFuture/python/100 days to code/Day 33/ISS_Overhead"
+    "last_opened_file_path": "D:/MyFuture/python/100 days to code/Day 34/Quiz app with API"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyFuture\python\100 days to code\Day 34\Quiz app with API" />
       <recent name="D:\MyFuture\python\100 days to code\Day 33\ISS_Overhead" />
       <recent name="D:\MyFuture\python\100 days to code\Day 33\kanye quotes" />
       <recent name="D:\MyFuture\python\100 days to code\Day 32" />
       <recent name="D:\MyFuture\python\100 days to code\Day 30\Password Manager V2" />
-      <recent name="D:\MyFuture\python\100 days to code\Day 30" />
     </key>
   </component>
   <component name="SharedIndexes">
